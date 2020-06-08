@@ -10,12 +10,12 @@ INSTRUCTOR: Robert Leckenby, Digital Geoscientist, [Agile](https://agilescientif
 
 ### Video Stream:
 <br>
-<a href="https://youtu.be/iIOMiN8Cacs" target="_blank">
+<a href="https://youtu.be/iIOMiN8Cacs?t=294" target="_blank">
     <img src="./youtube_thumbnail.png" width=800 />
 </a>
 
 ## Welcome
-Welcome to Transform 2020 and to Getting Started with Python! This session is open to all but is aimed at people who have never coded at all or who don't know Python. Ideally you should have watched the setup videos for [Windows](https://youtu.be/FdatS_NKVrM) or [Linux](https://youtu.be/3ncwbHyZeAg) and/or followed the instructions in the [Installation guide for the tutorials](http://swu.ng/t20-python-setup) that contained the information in those videos and more. This session is meant as a demo but if you followed those installation steps, you should be able to follow along. 
+Welcome to Transform 2020 and to Getting Started with Python! This session is open to all but is aimed at people who have never coded at all or who don't know Python. Ideally you should have watched the setup videos for [Windows](https://youtu.be/FdatS_NKVrM) or [Linux](https://youtu.be/3ncwbHyZeAg) and/or followed the instructions in the [Installation guide for the tutorials](http://swu.ng/t20-python-setup) that contained the information in those videos and more. This session is meant as a demo but if you followed those installation steps, you should be able to follow along.
 
 All session details are available [here](https://transform2020.sched.com/).
 
